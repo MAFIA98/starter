@@ -108,6 +108,14 @@
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
     </include_path>
   </component>
   <component name="ProjectId" id="1iCy8Vdi7JOqpivFMGMaogsL1sC" />
@@ -164,7 +172,7 @@
       <workItem from="1602064528207" duration="4322000" />
       <workItem from="1602116029636" duration="250000" />
       <workItem from="1602116393889" duration="8717000" />
-      <workItem from="1602222554074" duration="19189000" />
+      <workItem from="1602222554074" duration="27190000" />
     </task>
     <servers />
   </component>
